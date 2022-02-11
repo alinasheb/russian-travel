@@ -13,7 +13,7 @@
 @media screen and (max-width: 768px) {
   .footer {
     max-width: 720px;
-    margin: 88px 24px 24px ;   
+    margin: 88px 24px 24px;
   }
 }
 @media screen and (max-width: 320px) {
@@ -22,6 +22,6 @@
     align-items:flex-end;
     justify-content: space-between;
     max-width: 186px;
-    margin: 64px 118px 0 16px;   
+    margin: 64px 118px 0 16px;
   }
 }
