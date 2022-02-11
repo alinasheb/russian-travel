@@ -4,6 +4,6 @@
 
 Технологии, которые использовались: Flexbox верстка, Grid Layot, медиа-запросы, построение структры по БЭМ.
 
-
+ссылка на проект: https://alinasheb.github.io/russian-travel/
 
 
