@@ -1,5 +1,5 @@
 .intro__title {
-    margin: 0 0 40px 0;
+  margin: 0 0 40px 0;
   font-style: normal;
   font-weight: 900;
   font-size: 54px;
@@ -7,18 +7,19 @@
   white-space: nowrap;
 }
 
+@media screen and (max-width: 768px) {
+  .intro__title {
+    white-space: normal;
+    font-size: 7wv;
+  }
+}
+
 @media screen and (max-width: 320px) {
   .intro__title {
     font-size: 32px;
     line-height: 35px;
     white-space: normal;
-    
   }
-  
 }
 
-@media screen and (max-width: 768px) {
-  .intro__title {
-    white-space: normal;
-  }
-}
+
